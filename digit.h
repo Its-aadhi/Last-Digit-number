@@ -1,1 +1,1 @@
-
+int lastDigit(int number);
